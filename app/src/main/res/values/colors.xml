@@ -3,4 +3,10 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="colorText">#3f4149</color>
+    <color name="colorMessageText">#000000</color>
+
+    <!-- For roster view -->
+    <color name="colorBackground">#E9E9E9</color>
+    <color name="colorAttendeeName">#FFFFFFFF</color>
 </resources>
